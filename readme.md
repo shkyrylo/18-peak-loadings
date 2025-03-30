@@ -61,7 +61,7 @@ A user reads news, browses through categories (e.g., [Transfer News](https://www
 
 ---
 
-## 4. Statistics Pages (Players, Teams, Seasons)
+## 4. Statistics Pages (Players)
 
 ### 🧑‍💻 User story:
 A user opens a [player page](https://www.goal.com/en/player/erling-haaland/) to view their season stats, or a team stats page.
